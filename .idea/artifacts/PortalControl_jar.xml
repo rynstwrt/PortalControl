@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PortalControl:jar">
+    <output-path>$USER_HOME$/Desktop/Plugin Server/plugins</output-path>
+    <root id="archive" name="PortalControl.jar">
+      <element id="module-output" name="PortalControl" />
+    </root>
+  </artifact>
+</component>

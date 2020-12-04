@@ -1,0 +1,15 @@
+name: PortalControl
+version: 0.0.6
+author: Ryan Stewart
+main: art.ryanstew.portalcontrol.Main
+api-version: 1.16
+commands:
+  portalcontrol:
+    description: Master command for PortalControl.
+    usage: /portalcontrol help
+    aliases: [pc]
+    permission: portalcontrol.admin
+permissions:
+  portalcontrol.admin:
+    description: Used for all commands of PortalControl.
+    default: op
